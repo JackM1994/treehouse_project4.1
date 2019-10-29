@@ -1,0 +1,37 @@
+//
+//    Colors
+//
+
+$teal: #58e1c1;
+$sky-blue: #51ddfc;
+$purple: #927bc1;
+$orange: #fd7856;
+$green: #63cc82;
+$white: #fff;
+$grey: #ccc;
+
+//
+//color description
+//
+$color-primary : $teal;
+$color-secondary: $sky-blue;
+$color-purple: $purple;
+$color-orange: $orange;
+$color-green: $green;
+$hover: $white;
+$text-color: $grey;
+
+//
+//  Fonts
+//
+$primary-font: 'Lato' , sans-serif;
+$font-size: 1.5em;
+$font-primary-weight: 300;
+$font-secondary-weight: 700;
+
+//
+//  Breakpoints
+//
+$breakpoints:(
+    's': 768px
+);

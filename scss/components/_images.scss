@@ -1,0 +1,20 @@
+// =============================================
+//              Images
+// =============================================
+
+.img-avatar {
+    @include alignd;
+    @include spaces;
+    max-height: 100%;
+  }
+  
+  .img-frame {
+    @include alignd;
+    @include spaces;
+    padding: 13px;
+    border: 1px solid #ccc;
+  }
+  
+  .img-logo {
+    @include alignd;
+  }

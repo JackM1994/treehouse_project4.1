@@ -1,0 +1,13 @@
+// ======================================
+//  Mixins
+// ======================================
+@mixin alignd {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  
+}
+@mixin spaces {
+  margin-top: 10px;
+  max-width: 100%;
+}
